@@ -9,7 +9,6 @@ Welcome to the **Spotify Song Recommendation System** project! This repository c
 - **Content-Based and Collaborative Filtering**: Implements multiple recommendation techniques to improve accuracy.
 - **Spotify API Integration**: Fetches real-time music data for enhanced functionality.
 - **User-Friendly Interface**: Designed for intuitive user interaction.
-- **High Accuracy**: Optimized model with fine-tuned hyperparameters.
 
 ---
 
