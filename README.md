@@ -19,8 +19,6 @@ Welcome to the **Spotify Song Recommendation System** project! This repository c
 3. [Technologies Used](#technologies-used)
 4. [Data](#data)
 5. [Model](#model)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
